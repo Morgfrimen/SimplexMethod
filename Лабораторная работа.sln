@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лабораторная работа", "Лабораторная работа.csproj", "{C24AAF6F-2188-4377-8856-63588E998E3C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Сборка", "Сборка", "{2BC6064C-D785-4F84-9916-88D7999A1604}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\Лабораторная работа.exe = bin\Debug\Лабораторная работа.exe
+		bin\Debug\Лабораторная работа.exe.config = bin\Debug\Лабораторная работа.exe.config
+		bin\Debug\Лабораторная работа.pdb = bin\Debug\Лабораторная работа.pdb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
